@@ -1,9 +1,5 @@
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&duration=3000&pause=1000&color=2E86AB&center=true&vCenter=true&width=600&lines=Привет!+Меня+зовут+Никита+👋;Я+специалист+по+базам+данных+и+дата-аналитик;Добро+пожаловать+на+мой+GitHub!&font=Roboto" alt="Typing SVG" />
-</div>
-
-<div align="center">
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
+  <h1>Привет! Меня зовут Никита 👋</h1>
 </div>
 
 ---
